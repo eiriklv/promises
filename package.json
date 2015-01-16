@@ -1,0 +1,15 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Just another implementation of Promises for fun and learning",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/promises.git"
+  },
+  "author": "Eirik Vullum <evullum@gmail.com> (http://www.vullum.io/)",
+  "license": "ISC"
+}
